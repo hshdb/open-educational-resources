@@ -1,6 +1,6 @@
 # Was sind OER?
 
-OER (Open Educational Resources) sind frei nutzbare Lerninhalte beliebiger Fachbereiche in digitaler Form, in beliebigem Format. [Vgl. Neumann, Wikipedia] Das Wort Open unterstreicht explizit freie Nutzung und Verbreitung. In der letzten Zeit sind solche Inhalte nachgefragt, sei es für das Studium oder für das lebenslange Lernen.
+OER (Open Educational Resources) sind frei nutzbare Lerninhalte beliebiger Fachbereiche in digitaler Form, in beliebigem Format. [Vgl. Neumann, Wikipedia] Das Wort Open unterstreicht explizit freie Nutzung und Verbreitung. In der letzten Zeit sind solche Inhalte nachgefragt, sei es für das Studium oder für das lebenslange Lernen. 
 
 Das können sein: Vollständige Kurse, Videovorlesungen, e-Books, Präsentationen, Podcasts, Handbücher, Lexika, Wörterbücher, Zeitschriften, Artikel, Software, Datenbanken, Digitalisate…
 
