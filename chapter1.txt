@@ -1,3 +1,29 @@
-# Chapter 1 (Example Chapter)
+# Was sind OER?
 
-I was born in the year 1632, in the city of York, of a good family...
+OER (Open Educational Resources) sind frei nutzbare Lerninhalte beliebiger Fachbereiche in digitaler Form, in beliebigem Format. [Vgl. Neumann, Wikipedia] Das Wort Open unterstreicht explizit freie Nutzung und Verbreitung. In der letzten Zeit sind solche Inhalte nachgefragt, sei es für das Studium oder für das lebenslange Lernen.
+
+Das können sein: Vollständige Kurse, Videovorlesungen, e-Books, Präsentationen, Podcasts, Handbücher, Lexika, Wörterbücher, Zeitschriften, Artikel, Software, Datenbanken, Digitalisate…
+
+_“OER is said to include: 
+• Learning Content: Full courses, courseware, content modules, learning objects, collections and
+journals.
+• Tools: Software to support the development, use, re-use and delivery of learning content
+including searching and organization of content, content and learning management systems,
+content development tools, and on-line learning communities.
+• Implementation Resources: Intellectual property licenses to promote open publishing of materials,
+design principles of best practice, and localization of content.”_ [Hylén, S.1-2]
+
+Laut Neumann die wichtigsten OER sind [Vgl. Neumann]:
+- MOOCs (Massive Open Online Course) Online-Kurse mit der Möglichkeit, in einer Community zu kommunizieren, 
+- OCW (OpenCourseWare) – Kursbegleitende Lernmaterialien: Präsentationen, Videos von den Vorlesungen, Bilder. Nach einigen Defnitionen unterscheiden sie sich von den MOOCs dadurch, dass sie keine Foren, Mailinglisten o.ä. zum Austausch zwischen Lehrkräften und Studenten haben [Vgl. Universia], 
+- und Lehrbücher, z.B. offene E-Books. 
+
+Große Schwierigkeiten bereitet die Recherche nach OER. In erster Linie wegen der großen Anzahl diverser Quellen von OER im Netz:
+-Die Repositorien von Institutionen: z.B.: MIT Open Course Ware.
+- Aggregatoren, die mehrere Repositorien durchsuchen: z.B.: onlinecourses.com, coursera.org.
+- Repositorien, die einzelne Inhalte auch sammeln (Möglichkeit Inhalte hinzufügen), nicht nur Repositorien untersuchen: z.B.: OER Commons.
+
+Weitere Formen, die entweder nur wenige OER enthalten (Schulbuch-O-Mat: Projekt zur Erstellung der freien Schulbücher <http://www.schulbuch-o-mat.de/>) oder nur eine Liste von Links zu OER darstellen (Webseite von Jörn Loviscach <http://www.j3l7h.de/videos.html>). 
+
+Für die Bibliotheken sind die OER nachgefragte Inhalte, die gesammelt, verbreitet und archiviert werden können. Sie könnten systematisch die OER in ihren Katalogen verzeichnen, und dadurch die besseren Recherchemöglichkeiten für Endnutzer schaffen.  Dies war aber bis jetzt mit folgenden Schwierigkeiten verbunden: Erstens, nicht alle Repositorien stellen ihre Metadaten zur Verfügung. Zweitens, bei solcher Anzahl von Repositorien, Quellen der OER, solcher Vielfalt von Formate und Bildungsbereiche sehen die Metadaten, wenn vorhanden, sehr uneinheitlich aus. 
+
