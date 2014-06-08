@@ -1,3 +1,25 @@
-# Chapter 2
+# Standardisierung 
 
-Write here...
+[Vgl. folgendes Kapitel Ziedorn u.a., S. 5ff]
+Das Problem der Standardisierung der OER-Metadaten wird jetzt aktiv im Bibliotheksfeld diskutiert. Einerseits wird ein gemeinsamer Standard für alle OER erwünscht, das könnte die Arbeit für automatisierte Übernahme in Kataloge sehr erleichtern, andererseits ist es unmöglich alle notwendigen Metadaten von so unterschiedlichen Objekten in einem Metadaten-Standard zu vereinigen, ohne wichtige Inhalte zu verlieren.
+
+Zurzeit sind folgende Standards für die Erschließung von OER bekannt:
+
+Zum einen ist das Dublin Core, das für die Erschließung von OER benutzt werden kann.  Das Format hat 15 Pflichtfelder, die für grobe Beschreibung beliebiger Ressourcen reichen. Es gibt auch zusätzliche optionale Felder, die für speziellere Erschließung geeignet sind. Darunter auch DC Education Profile (<http://dublincore.org/moinmoin-wiki-archive/educationwiki/pages/DC_2dEducation_20Application_20Profile.html>), das solche zusätzliche Felder enthält, wie z.B.: Audience oder Education Level. Ich konnte leider die Repositorien, die DC benutzen nicht finden, aber DC ist Grundlage für einige für die OER Beschreibung spezialisierte Standards.
+
+Beispielsweise, für IEEE LOM (Learning Objects Metadata von dem Institute of Electrical and Electronics Engineers) (<http://de.wikipedia.org/wiki/Learning_Objects_Metadata>), ein internationales Standard für die Lerninhalte. In diesem Standard sind 70 Metadaten-Elemente vorhanden, darunter auch Interactivity Level, InstallationRemarks, Duration, Purpose und viele andere.
+
+Es gibt auch ELAN Application Profile (eLearning Academic Network Niedersachsen) (<http://edoc.hu-berlin.de/series/dini-schriften/2005-6-de/PDF/6-de.pdf>). Während der Erarbeitung des Standards wurden die beiden schon genannten berücksichtigt. Bei der Erschließung in diesem Standard werden schon die Metadaten, die den Kurs beschreiben, und die Metadaten für die Inhalte des Kurses unterschieden. Für einige Felder wurde auch kontrollierter Vokabular erstellt (z.B.: Dokumenttyp, Klassifikation, Zielgruppe). Der Standard und kontrolliertes Vokabular sind ähnlich wie traditionelle Bibliothekarische Beschreibung aufgebaut, was als inaktuell gesehen wird.
+
+ELAN wird von dem BMBF-Verbundprojekt eCULT (eCompetence and Utilities for Learners and Teachers) (<http://www.ecult-niedersachsen.de/>) angewendet.
+
+Nächster Standard - LRMI (Learning Resource Metadata Initiative) (<http://www.lrmi.net/>) - wird positioniert als „ein disziplinübergreifender internationaler Standard, mit dem verschiedenste Objekte erfasst werden können“ [Ziedorn u.a., S. 6]. Er wurde von Association of Educational Publishers und Creative Commons erarbeitet, dabei wurden “Use Cases aus aller Welt und aus unterschiedlichen Fachgebieten berücksichtigt“ [ebd.], sowie die uns bekannten schon Formate: DC, IEEE LOM und andere Initiativen.
+
+Ist aufgenommen in den Schema.org Standard. „Schema.org ist ein gemeinsames Projekt von Bing, Google, and Yahoo!, das zum Ziel hat, online Inhalte standardisiert beschreiben (sogenanntes „tagging“) zu können“ [ebd]. LRMI ist auch dazu geeignet, nicht nur Metadaten, sondern auch Microdaten zu beschreiben. [Vgl. ebd. S.7]
+
+Der Standard wird schon von folgenden Organisationen angewendet: eLearning Plattform “Learning Registry”, die Universität von Kapstadt, der Ausbildungsanbieter Pearson und die National Science Digital Library in den USA. 
+
+Diese Standards haben als Zielobjekte alle OER, es gibt aber einen  Standard, der viel spezieller ist. XCITR Metadaten Schema (Explore Chemical Information Teaching Resources) (<http://www.xcitr.org/>) ist fachorientiert, dazu auch für Anglo-Amerikanische Lernsystem erstellt. Einige Metadaten-Elemente dieses Standards sollen mithilfe vom kontrollierten Vokabular erstellt werden, das nur fachspezifische Bezeichnungen enthält. 
+
+Weitere Initiativen in der Standardisierung: IMS Learning Resource Metadata Specification (<http://www.imsproject.org/metadata/>), ARIADNE Educational Metadata Recommendation (<http://vs.fernuni-hagen.de/methoden/ils/Organisation/ariadne.html>), ISO/IEC 19788 Information technology (<http://en.wikipedia.org/wiki/ISO/IEC_19788>)
+
