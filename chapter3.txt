@@ -1,3 +1,7 @@
-# Chapter 3
+# Analyse der Lage der OER-Erschließung im Netz
 
-Write here...
+Es folgen weitere Versuche den einheitlichen Standard auszuarbeiten, nur die OER-Quellen benutzen die selten. In der Regel werden die OER nach keinem Standard erschlossen. Es wurden 15 Webseiten frei ausgewählt und durchgesucht, um festzustellen, wie sehen die Metadaten der OER aus, welche „Felder“ und eventuell Normdaten für die Erschließung benutzt werden. Unter 15 durchgesuchten Webseiten nur eine hat den Standard benutzt (LRMI von OERCommons).
+
+Die Recherche erfolgte hauptsächlich durch stichprobenartige Analyse der vorkommenden Felder in den Anzeigen der OER, da die Repositorien, bzw. Institutionen, die Informationen zu Metadaten in der Regel nicht veröffentlichen.
+
+Die Ergebnisse sind in der Excel-Datei erfasst. Eine Tabelle stellt Verzeichnis der benutzten Felder dar. Andere – grundlegende  Informationen zu den Webseiten.
