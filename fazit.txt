@@ -1,3 +1,0 @@
-# Fazit
-
-Die Erschließung von OER ist sehr uneinheitlich. Es gibt mehr oder weniger große Aggregatoren, die aber sogar nicht den größten Teil existierender OER erfassen. Eine Lösung wären nationale Aggregatoren (z.B. auf der Basis der Bibliotheken), die die OER-Metadaten mit den ausländischen Verzeichnissen (Bibliotheken) austauschen könnten. Das sammeln von Daten innerhalb eines Landes wäre analog zum Pflichtexemplar-Recht denkbar.  Dafür aber sollte der OER-Metadatenformat wenigstens innerhalb eines Landes standardisiert werden. Auf dem internationalen Niveau sollten die Formate wenigstens ohne großen Datenverlust ineinander überführbar sein.
